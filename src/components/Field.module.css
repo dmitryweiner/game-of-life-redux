@@ -1,0 +1,9 @@
+.wrapper {
+    width: 500px;
+    margin: 20px auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
