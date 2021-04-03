@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/game-of-life-redux/static/css/main.0cb670a7.chunk.css",
+    "main.js": "/game-of-life-redux/static/js/main.f1c142f7.chunk.js",
+    "main.js.map": "/game-of-life-redux/static/js/main.f1c142f7.chunk.js.map",
+    "runtime-main.js": "/game-of-life-redux/static/js/runtime-main.9cbcd512.js",
+    "runtime-main.js.map": "/game-of-life-redux/static/js/runtime-main.9cbcd512.js.map",
+    "static/js/2.80f886be.chunk.js": "/game-of-life-redux/static/js/2.80f886be.chunk.js",
+    "static/js/2.80f886be.chunk.js.map": "/game-of-life-redux/static/js/2.80f886be.chunk.js.map",
+    "static/js/3.b02de2d8.chunk.js": "/game-of-life-redux/static/js/3.b02de2d8.chunk.js",
+    "static/js/3.b02de2d8.chunk.js.map": "/game-of-life-redux/static/js/3.b02de2d8.chunk.js.map",
+    "index.html": "/game-of-life-redux/index.html",
+    "static/css/main.0cb670a7.chunk.css.map": "/game-of-life-redux/static/css/main.0cb670a7.chunk.css.map",
+    "static/js/2.80f886be.chunk.js.LICENSE.txt": "/game-of-life-redux/static/js/2.80f886be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cbcd512.js",
+    "static/js/2.80f886be.chunk.js",
+    "static/css/main.0cb670a7.chunk.css",
+    "static/js/main.f1c142f7.chunk.js"
+  ]
+}
