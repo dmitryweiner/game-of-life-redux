@@ -36,8 +36,8 @@ function App() {
       <ControlPanel />
       <Field />
       <div>
-          <a href="https://github.com/dmitryweiner/">&copy; Дмитрий Вайнер</a>,{' '}
-          <a href="https://github.com/dmitryweiner/game-of-life-redux/">исходный код</a>
+        <a href="https://github.com/dmitryweiner/">&copy; Дмитрий Вайнер</a>,{' '}
+        <a href="https://github.com/dmitryweiner/game-of-life-redux/">исходный код</a>
       </div>
     </div>
   );

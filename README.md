@@ -13,3 +13,4 @@ c применением библиотеки [Redux](https://redux.js.org/).
 * [Эволюция клеточных автоматов](https://habr.com/ru/post/455958/).
 * [Game of Life на JS](https://habr.com/ru/post/111686/).
 * [Изящная реализация GoL на JS](https://github.com/LeMarck/life/).
+* [Про аналог физического мира в клеточных автоматах](http://www.anmuha.narod.ru/37R.html).

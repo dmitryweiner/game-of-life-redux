@@ -3,6 +3,7 @@ import {
   DEFAULT_RULES,
   Field,
   getEmptyField,
+  getFieldWithGliders,
   getNextField,
   getRandomField,
   Rules
@@ -64,7 +65,7 @@ export type Store = {
 export const initialState: Store = {
   isRunning: false,
   rules: DEFAULT_RULES,
-  field: getEmptyField()
+  field: getFieldWithGliders()
 };
 
 export function reducer(state = initialState, action: Action): Store {
